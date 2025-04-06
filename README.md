@@ -1,1 +1,1 @@
-# .github
+# Welcome to Christians in Tech
